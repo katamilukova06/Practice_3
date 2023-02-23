@@ -1,0 +1,8 @@
+D:\Приложения\VisualStudio\Practice_3\bin\Debug\Practice_3.exe.config
+D:\Приложения\VisualStudio\Practice_3\bin\Debug\Practice_3.exe
+D:\Приложения\VisualStudio\Practice_3\bin\Debug\Practice_3.pdb
+D:\Приложения\VisualStudio\Practice_3\obj\Debug\Practice_3.csproj.AssemblyReference.cache
+D:\Приложения\VisualStudio\Practice_3\obj\Debug\Practice_3.csproj.SuggestedBindingRedirects.cache
+D:\Приложения\VisualStudio\Practice_3\obj\Debug\Practice_3.csproj.CoreCompileInputs.cache
+D:\Приложения\VisualStudio\Practice_3\obj\Debug\Practice_3.exe
+D:\Приложения\VisualStudio\Practice_3\obj\Debug\Practice_3.pdb
